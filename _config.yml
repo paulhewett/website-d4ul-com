@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Design4UsLab
+email: hola@d4ul.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: paulhewtweet
+github_username: paulhewett
 
 # Build settings
 markdown: kramdown
