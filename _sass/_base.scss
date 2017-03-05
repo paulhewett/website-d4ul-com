@@ -114,14 +114,14 @@ aside {
             color: $theme-primary;
             &:hover,
             &:focus {
-                color: white;
+                color: $theme-primary;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
             color: white;
             &:hover {
-                color: white;
+                color: $theme-primary;
             }
         }
         &.affix {
@@ -156,7 +156,7 @@ header {
     background-position: center;
     background-image: url('../img/header.jpg');
     text-align: center;
-    color: $theme-primary;
+    color: white;
     .header-content {
         position: relative;
         text-align: center;
