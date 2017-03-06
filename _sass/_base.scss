@@ -301,7 +301,7 @@ header {
 }
 
 .btn-primary {
-    @include button-variant(white, $theme-primary, $theme-primary);
+    @include button-variant(white, #EF9D1D, #EF9D1D);
 }
 
 .btn {
